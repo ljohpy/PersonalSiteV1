@@ -1,3 +1,21 @@
 img.classmate {
-    width: 90px;
+border-radius: 50%;
+width: 250px;
+}
+
+
+div.classmate {
+    text-align: center;
+}
+
+p.BigFontmeet{
+    font-size: 2em
+}
+
+p.FontContact{
+    font-size: 2em
+}
+
+img.Nash{
+    border-radius: 85%;
 }
